@@ -1,6 +1,7 @@
 # ShoppingAppClone
 ---
-Please refer to https://www.youtube.com/channel/UCZIfiFX3Du0KKSzk7dMDfUQ/
+- Thank you for visiting my git :)
+- Please refer to https://www.youtube.com/channel/UCZIfiFX3Du0KKSzk7dMDfUQ/
 ---
 ## Language and Tools
 ### Frontend
